@@ -1,6 +1,6 @@
 # Gun Chat
 
-Decentralized chat application built using [Gun](https://gun.eco)
+Decentralized chat application built using [Gun](https://gun.eco) and [Svelte](https://svelte.dev).
 
 ## Get started
 
